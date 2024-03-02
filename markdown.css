@@ -5,6 +5,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
+    background-color:rgb(140, 95, 172)
 }
 .container {
     display: flex;
