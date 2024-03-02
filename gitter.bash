@@ -1,4 +1,3 @@
-# Put gitter here
 mkdir LiveRender
 cd LiveRender
 git clone -b stable https://github.com/HttpAnimation/LiveRender.git
