@@ -1,4 +1,6 @@
 # Put gitter here
+mkdir NAME
+cd NAME
 git clone -b stable https://github.com/HttpAnimation/NAME.git
 mv NAME stable
 git clone -b blank https://github.com/HttpAnimation/NAME.git
