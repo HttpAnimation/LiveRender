@@ -1,2 +1,2 @@
 # MainTemplate/gh-pages
-A template I use
+<center><h3></h3</center>
