@@ -17,15 +17,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.1/showdown.min.js"></script>
 <script src=""></script>
 <script>
-    const markdownInput = document.getElementById('markdown-input');
-    const markdownOutput = document.getElementById('markdown-output');
-    
-    markdownInput.addEventListener('input', () => {
-        const markdownText = markdownInput.value;
-        const converter = new showdown.Converter();
-        const html = converter.makeHtml(markdownText);
-        markdownOutput.innerHTML = html;
-    });
+
 </script>
 </body>
 </html>
